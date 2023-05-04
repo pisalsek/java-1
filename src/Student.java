@@ -25,6 +25,10 @@ public class Student {
             System.out.println(b);
             System.out.println("My name is : "+name);
             System.out.println(c);
+            System.out.println("My name is : "+name);
+            System.out.println(c);
+
+
 
     }
 }
